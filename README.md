@@ -225,9 +225,15 @@ Blinkit-SQL-Analysis/
 │
 ├── README.md
 │
-├── Blinkit_Data_Query.sql
+├── BlinkIT Grocery Data.csv
 │
-├── Blinkit Grocery Data.csv
+├── Data Cleaning.sql
+│
+├── Key Performance Indicators.sql
+│
+├── Granular Analysis.sql
+│
+├── Chart-Ready Queries.sql
 │
 └── screenshots/
     ├── 01-data-cleaning.png
